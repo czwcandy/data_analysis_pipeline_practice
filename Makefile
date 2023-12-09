@@ -1,6 +1,4 @@
-# Makefile
 
-# Define default target.
 all: report
 
 # Generate word count data files
